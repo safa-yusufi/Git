@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(187, 224, 224);
+    margin: 50px;
+    padding: 50px;
+}
+p{
+    font-size: 50px;
+}
+h1{
+    font-size: 70px;
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+}
+li{
+ 
+ font-size: 35px;
+}
